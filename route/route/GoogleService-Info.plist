@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>617931656944-4tq1c7qadaiftnfl5kqb5b5mm99rke34.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.617931656944-4tq1c7qadaiftnfl5kqb5b5mm99rke34</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAcR3_AdCHhXfnVOQFjFDAhMp2Hgocma0s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>617931656944</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.waterflower.maproute</string>
+	<key>PROJECT_ID</key>
+	<string>china-map-route</string>
+	<key>STORAGE_BUCKET</key>
+	<string>china-map-route.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:617931656944:ios:b149bb9641df9a927fbc35</string>
+	<key>DATABASE_URL</key>
+	<string>https://china-map-route.firebaseio.com</string>
+</dict>
+</plist>
